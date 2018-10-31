@@ -1,0 +1,19 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "fun bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishnu Priya",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "node-slack-upload": "^1.2.1",
+    "nodejslack": "^1.4.0",
+    "slack-webhook": "^1.0.0",
+    "slackbots": "^1.2.0",
+    "slackpost": "^1.2.0"
+  }
+}
